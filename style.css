@@ -1,0 +1,57 @@
+body {
+    margin: 0 auto;
+    background: papayawhip;
+ 
+}
+
+.Container {
+    display: flex;
+    border-radius: 10px;
+    width: 70%;
+    border: 1px solid;
+    align-content: center;
+    background-color: white;
+    margin-top: 5rem;
+    justify-content: center;
+    just
+    
+    
+    
+}
+
+.image {
+    margin-right: 20px;
+    height: 40px;
+    
+}
+
+button{
+    color:white;
+    background-color: green;
+   padding: 7px;
+   width:auto;
+}
+
+.text{
+    color: gray;
+}
+
+.perfume{
+    color: gray;
+}
+
+.amount{
+    color: green;
+}
+
+.discount{
+    color: gray;
+}
+
+.money{
+    display: flex;
+
+}
+.discount{
+    size: 10px;
+}
