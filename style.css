@@ -7,37 +7,48 @@ body {
 .Container {
     display: flex;
     border-radius: 10px;
-    width: 70%;
-    border: 1px solid;
-    align-content: center;
+    width: 40%;
+    border: 0px solid;
     background-color: white;
     margin-top: 5rem;
-    justify-content: center;
-    just
-    
+    justify-content: space-evenly;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: auto;
     
     
 }
 
 .image {
     margin-right: 20px;
-    height: 40px;
+    height: 80px;
     
+}
+
+img{
+    height: 380px;
+    width: 100x;
 }
 
 button{
     color:white;
     background-color: green;
    padding: 7px;
-   width:auto;
+   width:200px;
+   height: 30px;
+   border: none;
+   border-radius: 10px;
+   margin-bottom: 15px;
 }
 
 .text{
     color: gray;
+    justify-content: center;
 }
 
 .perfume{
     color: gray;
+
 }
 
 .amount{
@@ -46,12 +57,16 @@ button{
 
 .discount{
     color: gray;
+    margin-top: 15px;
+    margin-left: 20px;
 }
 
 .money{
     display: flex;
+    word-spacing: 50px;
 
 }
 .discount{
     size: 10px;
+    padding-bottom: ;
 }
